@@ -1,0 +1,9 @@
+attachment/
+logs/
+docs/
+CLAUDE.md
+.claude/
+spec.md
+
+ProjectManager.db
+ProjectManager.config.json
